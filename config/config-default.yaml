@@ -12,7 +12,7 @@
 main_title: "RESQUE TU Dresden"
 
 # Background color of the app
-background_color: "#00305D"
+background_color: "#84CFED"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
