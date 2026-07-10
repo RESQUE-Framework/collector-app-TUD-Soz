@@ -9,16 +9,16 @@
 # Styling
 
 # Title of the app (shown on top left)
-main_title: "RESQUE"
+main_title: "RESQUE TU Dresden"
 
 # Background color of the app
-background_color: "#ffffff"
+background_color: "#00305D"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
 
 # Show the welcome message (text is defined in config/instructions.md)
-show_instruction: false
+show_instruction: true
 
 # Show the beta warning message
 show_beta_warning: true
@@ -38,7 +38,7 @@ committee_limits: false
 min: 5
 
 # Maximum number of papers that are expected by the committee
-max: 10
+max: 5
 
 # Number of top papers that must be selected
 max_top_papers: 3
