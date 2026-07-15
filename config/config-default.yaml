@@ -24,7 +24,7 @@ show_instruction: true
 show_beta_warning: true
 
 # Add a logo to the top left (next to the title) and to the welcome message (if show_instruction is true)
-image_url: https://commons.wikimedia.org/wiki/File:Logo_TU_Dresden_en_2025.svg
+image_url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_TU_Dresden_en_2025.svg
 
 
 
